@@ -43,14 +43,4 @@ This project is built as part of a learning / internship-ready full-stack system
 - bcrypt (password hashing)
 
 ---
-### Screenshots
-![Screenshot 2025-08-22 121247](https://github.com/Priyanshiagarwal2006/Think-Fix/blob/main/Screenshot%202026-01-12%20220556.png)
-
-![Screenshot 2025-08-22 121247](https://github.com/Priyanshiagarwal2006/Think-Fix/blob/main/Screenshot%202026-01-12%20220641.png)
-
-![Screenshot 2025-08-22 121247](https://github.com/Priyanshiagarwal2006/Think-Fix/blob/main/Screenshot%202026-01-12%20220652.png)
-
-![Screenshot 2025-08-22 121247](https://github.com/Priyanshiagarwal2006/Think-Fix/blob/main/Screenshot%202026-01-12%20220536.png)
-
-![Screenshot 2025-08-22 121247](https://github.com/Priyanshiagarwal2006/Think-Fix/blob/main/Screenshot%202026-01-12%20220519.png)
 
